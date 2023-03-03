@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import PromptSync from "prompt-sync";
 let p = PromptSync();
 let n = Math.trunc(Math.random() * 10);
